@@ -1,0 +1,16 @@
+{
+  "name": "ams_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ams_check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-disk-space": "^2.1.0",
+    "node-windows": "^1.0.0-beta.1",
+    "request": "^2.88.2"
+  }
+}
