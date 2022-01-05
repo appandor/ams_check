@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "check-disk-space": "^2.1.0",
-    "node-windows": "^1.0.0-beta.1",
+    "node-windows": "^1.0.0-beta.6",
     "request": "^2.88.2"
   }
 }
